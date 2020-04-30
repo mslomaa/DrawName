@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    height: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+button {
+    display: block;
+    margin: 20px auto 50px;
+    background-color: #fff;
+    border: 5px solid blue;
+    padding: 20px 50px;
+    font-size: 25px;
+}
+
+div {
+    margin: 10px;
+    font-size: 25px;
+    text-align: center;
+    
+}
